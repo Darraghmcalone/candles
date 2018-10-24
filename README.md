@@ -1,8 +1,7 @@
 
 # Candles Community Project custom Wordpress theme 
 
-- Author 1 : Darragh McAlone
-- Author 2 : Florence Nway (Nway Me Me Nway)
+Author 1 : Darragh McAlone, Author 2 : Florence Nway (Nway Me Me Nway)
 
 
 - implement from the WordPress starter theme
