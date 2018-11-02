@@ -42,4 +42,4 @@ Author 1 : Darragh McAlone, Author 2 : Florence Nway (Nway Me Me Nway)
 
 ## Links
 
-- Repository: https://github.com/FlorenceNway/candles
+- Repository: https://github.com/Darraghmcalone/candles
